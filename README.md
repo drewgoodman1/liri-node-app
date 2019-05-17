@@ -1,5 +1,5 @@
 # liri-node-app
-LIRI is a CLI application can take the following commands:
+LIRI is a CLI application that can take the following commands:
 
 * concert-this: find concerts for a band
 * spotify-this-song: find info about a song
